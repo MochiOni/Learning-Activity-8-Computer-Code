@@ -1,0 +1,14 @@
+body {
+    font-size: 10pt;
+    text-align:center;
+    background-color:black;
+    color:white;
+}
+aside {
+        background-color: lightgray;
+        padding-left:15px ;
+        float: right;
+        margin-left: 15px;
+        width: 30%;
+        height:60%;
+}
